@@ -9,7 +9,7 @@
 > 
 > Spring Core
 
-### Tạo ccs thư mục cần thiết trong main
+### Tạo các thư mục cần thiết trong main
 > java
 > 
 > resources
